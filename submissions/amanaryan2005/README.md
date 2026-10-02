@@ -7,7 +7,7 @@
 
 | | |
 |---|---|
-| **Live Link** https://software-engineering-assesment-16j1.vercel.app/login
+| **Live Link** https://software-engineering-assesment.vercel.app/login
 | **Demo Video** https://drive.google.com/file/d/186q0b1E7wbq-34L2ikrd8v_h25DayLCE/view?usp=sharing
 | **Resume** | [`RESUME.pdf`](./RESUME.pdf) |
 | **API Docs** | `https://your-deployment-url.com/docs` |
